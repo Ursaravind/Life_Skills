@@ -1,4 +1,4 @@
-# README: Understanding Content Delivery Networks (CDNs)
+# Understanding Content Delivery Networks (CDNs)
 
 ## What is CDN?
 CDN is abbrevated as Content Delivery Networks
