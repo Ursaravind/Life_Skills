@@ -3,10 +3,10 @@
 ### Introduction
 Learning is more than reading books or watching instructions. It is learning how to tackle a new subject in a manner that is best for you. Some believe that learning is all about memory, but it is also a matter of understanding, practice, and accessing proper resources. With a couple of easy techniques, everyone can simplify and enhance the process. This paper discusses some down-to-earth methods which can assist students, experts, and even self-learners to develop in their own domain.
 
-### Why Learning Skills Matter
+### Importance of learning
 We are living in an age with information all around us. You can search on the internet and receive answers in a matter of seconds, but the skill lies in knowing what to do with that information. A lot of learners fail because they are stuck or feel overwhelmed. By learning to learn, you will save time, get clear from confusion, and remain motivated. Proper learning habits also enhance concentration and enable you to transfer knowledge into real life.
 
-### Key Strategies for Good Learning
+### Tips for learning 
 **1. Ask a Friend First**
 When you don't get it, ask a friend who is familiar with the subject. Friends will teach you things in simple terms, making it easy to understand new concepts. A brief chat could sometimes avoid hours of frustration.
 
@@ -27,12 +27,6 @@ The brain won't concentrate for extended hours without a break. Occasional short
 
 **7. Sleep Well**
 Sleep is a significant aspect of learning. During sleep, your brain consolidates and stores information. Without proper rest, it becomes more difficult to recall and apply what you learned.
-
-### Why These Strategies Work
-These strategies work because they reach across modes of learning. Friends simplify concepts, documents offer precision, and videos offer imagery for clarity. Daily objectives and checklists give discipline and order. Rest and breaks maintain the mind in good health and prepared to learn new things. By adopting these steps together, you make learning less stressful and more regular.
-
-### Conclusion
-Learning how to learn is one of the best skills you can develop. Instead of attempting to memorize everything, learn to use the proper method and materials. Seek guidance, utilize trusted material, practice every day, and keep your body healthy with rest. As time passes, these routines will make you a more resilient learner in any area. With the right attitude, you can approach any subject with confidence and keep growing each day.
 
 ## References
 - [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn)  
