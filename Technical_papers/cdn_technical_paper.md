@@ -22,3 +22,6 @@ CDNs are getting better with edge computing, artificial intelligence for intelli
 
 ### Conclusion
 CDNs are essential to a quick, dependable internet, with new technology making them even improved.
+### references
+=> https://en.wikipedia.org/wiki/Content_delivery_network
+=> https://youtu.be/b4_6thkYZXs?si=SYMcohqfp5tZl80_
