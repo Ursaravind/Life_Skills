@@ -27,7 +27,7 @@ The brain won't concentrate for extended hours without a break. Occasional short
 **7. Sleep Well**
 Sleep is a significant aspect of learning. During sleep, your brain consolidates and stores information. Without proper rest, it becomes more difficult to recall and apply what you learned.
 
-### References
+#### References
 - [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn)  
 - [The Science of Sleep and Learning - Sleep Foundation](https://www.sleepfoundation.org/sleep-hygiene/memory-and-sleep)  
 - [Effective Study Techniques - Oxford Learning](https://www.oxfordlearning.com/study-skills/)  
