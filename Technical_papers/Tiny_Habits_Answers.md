@@ -28,7 +28,6 @@ To stop a bad habit:
 Keep triggers out of sight, like snacks in a cupboard.  
 Think about the bad parts, like how junk food feels.  
 
-## 5. Reflection
 **Question 8: Pick one habit to do more. How do you make it obvious, attractive, easy, or satisfying?**  
 **Habit:** Drink more water.  
 Keep a water bottle on my desk.  
