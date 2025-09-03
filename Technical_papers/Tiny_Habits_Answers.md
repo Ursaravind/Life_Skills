@@ -1,4 +1,4 @@
-# Tiny Habits and Atomic Habits: Simple Answers
+# Tiny Habits and Atomic Habits
 
 **Question 1: What was the most interesting idea?**  
 The best idea is starting small to build habits. Fogg flossed one tooth after brushing, which grew into a full habit. It’s cool because tiny steps make big changes easy.
