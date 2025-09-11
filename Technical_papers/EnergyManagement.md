@@ -42,6 +42,3 @@ Manage energy, not time, for a happier life. Stay in Excitement, Stress, or Calm
 
 7. **How can you exercise more?**  
    Take daily walks, join a fun class like yoga or dance, set small fitness goals, and find a workout buddy to stay motivated.
-
-## Meditation
-Calm minds do brilliant things. Try a 1-minute meditation (https://www.youtube.com/watch?v=F6eFFCi12v8, 5:35) or a quick one-moment meditation (https://www.youtube.com/watch?v=lACf4O_eSt0, 0:52).
